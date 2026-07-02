@@ -1,6 +1,6 @@
 # Hamiltonian simulation for hyperbolic partial differential equations by scalable quantum circuits
 
-Authors of paper: Yuki Sato, Ruho Kondo, Ikko Hamamura, Tamiya Onodera, and Naoki Yamamoto
+Authors of paper: Yuki Sato, Ruho Kondo, Ikko Hamamura, Tamiya Onodera, and Naoki Yamamoto (2024)
 
 Link to paper: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033246
 
